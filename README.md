@@ -2,6 +2,6 @@
 Aide mémoire
 
 ## Updates à faire 
-- [ ] Ajouter de nouveau Gulp.js
+- [ ] Installer Webpack
 - [ ] Retirer le menu principal 
 - [ ] Ajouter un compteur des tâches restantes / effectuées 
