@@ -5,4 +5,4 @@ Aide mémoire
 - [ ] Installer Webpack
 - [ ] Retirer le menu principal 
 - [ ] Ajouter un compteur des tâches restantes / effectuées
-- [ ] Migrer vers du JS Vanilla dans un fichier .js séparé
+- [ ] Migrer vers du ES6 dans un fichier .js séparé
