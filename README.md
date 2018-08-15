@@ -1,4 +1,4 @@
-# js-jquery-todo-cajoline
+# js-vanilla-todo-cajoline
 Aide mémoire
 
 ## Updates à faire 
