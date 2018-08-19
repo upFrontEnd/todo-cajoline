@@ -1,6 +1,10 @@
 # js-vanilla-todo-cajoline
 Aide mémoire
 
+## Technologie(s) utilisée(s)
+- HTML / SCSS
+- Vue JS
+
 ## Updates à faire 
 - [ ] Installer Webpack
 - [ ] Retirer le menu principal 
