@@ -4,8 +4,10 @@ Aide mémoire
 ## Technologie(s) utilisée(s)
 - HTML / SCSS
 - JS
+- WEBPACK
 
 ## Updates à faire 
-- [ ] Installer Webpack
+- [x] Installer Webpack
+- [ ] Customisation Webpack 
 - [ ] Retirer le menu principal 
 - [ ] Ajouter un compteur des tâches restantes / effectuées
