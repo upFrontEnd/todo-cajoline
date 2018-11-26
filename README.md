@@ -8,6 +8,5 @@ Aide mémoire
 
 ## Updates à faire 
 - [x] Installer Webpack
-- [ ] Customisation Webpack 
 - [ ] Retirer le menu principal 
 - [ ] Ajouter un compteur des tâches restantes / effectuées
