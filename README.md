@@ -5,8 +5,3 @@ Aide mémoire
 - HTML / SCSS
 - JS
 - WEBPACK
-
-## Updates à faire 
-- [x] Installer Webpack
-- [ ] Retirer le menu principal 
-- [ ] Ajouter un compteur des tâches restantes / effectuées
