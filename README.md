@@ -4,4 +4,3 @@ Aide mémoire
 ## Technologie(s) utilisée(s)
 - HTML / SCSS
 - JS
-
