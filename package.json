@@ -1,0 +1,23 @@
+{
+  "name": "To-Do-Cajoline",
+  "version": "1.0.0",
+  "description": "Aide mémoire",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass -w --output-style compressed scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adel1982/Todo-Cajoline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adel1982/Todo-Cajoline/issues"
+  },
+  "homepage": "https://github.com/adel1982/Todo-Cajoline#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}

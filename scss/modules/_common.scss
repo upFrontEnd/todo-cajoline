@@ -1,17 +1,5 @@
 $pathImg : "../img/";
 // Bootstrap breakpoint landmark
-body {
-    border-top: 5px solid black;
-    @media (min-width: $screen-sm-min) { // Small devices (tablets, 768px and up)
-        border-top: 5px solid blue;
-    }
-    @media (min-width: $screen-md-min) { // Medium devices (desktops, 992px and up)
-        border-top: 5px solid red;
-    }
-    @media (min-width: $screen-lg-min) { // Large devices (large desktops, 1200px and up)
-        border-top: 5px solid green;
-    }
-}
 html {
     box-sizing: border-box;
     font-size: 62.5%;
