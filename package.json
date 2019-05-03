@@ -4,7 +4,7 @@
   "description": "Aide mémoire",
   "main": "index.js",
   "scripts": {
-    "node-sass": "node-sass -w --output-style compressed scss -o css"
+    "start": "node-sass -w --output-style compressed scss -o css --source-map-root file://${PWD}/ --source-map-embed true"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/adel1982/Todo-Cajoline#readme",
   "devDependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.12.0"
   }
 }
