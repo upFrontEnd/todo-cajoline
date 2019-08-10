@@ -1,2 +1,5 @@
-# js-vanilla-todo-cajoline
-Aide mémoire
+# To-Do list application
+
+## Used Technologys
+- HTML / SCSS / JS Vanilla
+- NPM
