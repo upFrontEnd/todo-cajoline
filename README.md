@@ -2,4 +2,4 @@
 
 ## Used Technologys
 - HTML / CSS / SASS / JS Vanilla
-- NPM
+- Npm
