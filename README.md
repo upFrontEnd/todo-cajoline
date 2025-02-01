@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ae884a03-618f-4414-8d0b-f4d252a6e912/deploy-status)](https://app.netlify.com/sites/js-vanilla-todo-cajoline/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a40ba8c-d02a-4abd-bf9e-1f9c8e354f2a/deploy-status)](https://app.netlify.com/sites/to-do-cajoline/deploys)
 
 # To-Do Cajoline list application
 
