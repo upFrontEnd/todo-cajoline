@@ -2,6 +2,6 @@
 
 # To-Do Cajoline list application
 
-<a href="https://clickandconfetti.netlify.app" target="_blank">
+<a href="js-vanilla-todo-cajoline.netlify.app" target="_blank">
     <img src="./img/screen.jpg" />
 </a>
